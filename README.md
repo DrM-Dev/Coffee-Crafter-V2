@@ -3,7 +3,7 @@ this code is standalone and doesn't reqire importing packages outside the built-
 <!> every user-input is error-proofed with correction feedback 
 <!> the default-stock inside the virtual coffe machine can be re-filled by user input
 :] 
-=================================
+_____________________________
 Commands are:
 1-to choose a drink from the menu type the name of the item:
 "espresso" "latte" "cappuccino"
