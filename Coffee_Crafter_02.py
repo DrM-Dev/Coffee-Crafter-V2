@@ -1,4 +1,4 @@
-#Coffee-Crafter V1   -   By:  Dr.M-Dev
+#Coffee-Crafter V2   -   By:  Dr.M-Dev
 #note: this code is standalone and doesn't reqire importing packages outside the built-in packages in python
 
 
