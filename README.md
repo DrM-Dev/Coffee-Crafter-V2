@@ -19,5 +19,3 @@ To restock the machine supplies, follow the given instructions on the label unde
 
 5-"Off" 
 To turn off the machine, followed by conformation "y/yes".
-
-
